@@ -1,0 +1,24 @@
+{
+  "name": "cli-courses-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "type": "module",
+  "bin": "./index.js",
+  "author": "Abdelmagid",
+  "license": "MIT",
+  "description": "cli tool to manage courses like add course and show list all courses",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "inquirer": "^12.9.3"
+  }
+}
