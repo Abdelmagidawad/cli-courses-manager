@@ -38,33 +38,37 @@ This project was built using:
 - Install the package  from **npm** and Usage :
 
 ```bash  
-- Install the package globally from **npm**:
+- Install the package globally from npm:
 
-npm install -g cli-courses-manager
+    npm install -g cli-courses-manager
 
 - After installation, you can use the command:
 
-cli-courses-manager
+    cli-courses-manager
 
-# Usage
+## Usage ##
 
 - The main command is:
 
-cli-courses-manager <command>
+   cli-courses-manager <command>
 
-#Available Commands
+## Available Commands ##
 
 1. Add a course
-cli-courses-manager add
+
+   cli-courses-manager add
 
 2. Delete a course
-cli-courses-manager delete
+
+   cli-courses-manager delete
 
 3. Update a course
-cli-courses-manager update
+
+   cli-courses-manager update
 
 4. List all courses
-cli-courses-manager list
+
+   cli-courses-manager list
 
 
 
