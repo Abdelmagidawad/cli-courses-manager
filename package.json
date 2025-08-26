@@ -15,7 +15,7 @@
   "description": "cli tool to manage courses like add course and show list all courses",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Abdelmagidawad/cli-courses-manager"
   },
   "dependencies": {
     "commander": "^14.0.0",
