@@ -25,22 +25,34 @@ This project was built using:
 
 ---
 
+### 🔗 Links
+
+- Direct npm package link → [https://www.npmjs.com/package/cli-courses-manager](https://www.npmjs.com/package/cli-courses-manager)  
+- Your GitHub repo link → [https://github.com/Abdelmagidawad/cli-courses-manager](https://github.com/Abdelmagidawad/cli-courses-manager)  
+
+---
+
 
 ### Installation
+
+- Install the package  from **npm** and Usage :
+
+```bash  
 - Install the package globally from **npm**:
-```bash
+
 npm install -g cli-courses-manager
 
 - After installation, you can use the command:
-```bash
+
 cli-courses-manager
 
-#### 🚀 Usage
+# Usage
 
 - The main command is:
+
 cli-courses-manager <command>
 
-#### 📋 Available Commands
+#Available Commands
 
 1. Add a course
 cli-courses-manager add
@@ -54,9 +66,6 @@ cli-courses-manager update
 4. List all courses
 cli-courses-manager list
 
-### 🔗 Links
 
-- Direct npm package link → [https://www.npmjs.com/package/cli-courses-manager](https://www.npmjs.com/package/cli-courses-manager)  
-- Your GitHub repo link → [https://github.com/Abdelmagidawad/cli-courses-manager](https://github.com/Abdelmagidawad/cli-courses-manager)  
 
 
